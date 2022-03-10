@@ -1,0 +1,10 @@
+﻿
+Menu table
+	Item
+
+Settings table
+	Minimum order value
+	Name of Businesss
+	Delivery Fee
+	Delievry time
+	Collection Time
